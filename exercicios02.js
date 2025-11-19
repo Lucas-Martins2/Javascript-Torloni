@@ -39,6 +39,6 @@ if (input === null || input.trim() === "") {
 
     console.log("Resultado da Verificação de Dia da Semana");
     console.log("Número digitado: " + input);
-    console.log("Número processado: " + numeroDoDia);
+    
     console.log("Dia da semana: " + diaDaSemana);
 }
