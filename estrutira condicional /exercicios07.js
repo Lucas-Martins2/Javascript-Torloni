@@ -23,4 +23,4 @@ let valorFinal = valorCompra - desconto;
 
 alert("Valor da compra: R$ " + valorCompra.toFixed(2) +
       "\nDesconto aplicado: R$ " + desconto.toFixed(2) +
-      "\nValor final a pagar: R$ " + valorFinal.toFixed(2));
+      "\nValor final a pagar: R$ " + valorFinal.toFixed(2));    
